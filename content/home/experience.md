@@ -40,8 +40,8 @@ date_format = "Jan 2006"
   location = "New York"
   date_start = "2019-10"
   date_end = ""
-  description = """"""
- Responsibilities include:
+  description = """
+  Responsibilities include:
   
   * Directed the Opioid Overdose Risk Management Research clinical trial data management and analysis.
   * Developed Opioid Overdose Risk Behavior Score measurement scale using factor analysis and latent class analysis.
@@ -56,8 +56,8 @@ date_format = "Jan 2006"
   location = "New York"
   date_start = "2019-10"
   date_end = ""
-  description = """"""
- Responsibilities include:
+  description = """
+  Responsibilities include:
   
   * Collaborated in an innovative Phase II/Phase III clinical trial study design and statistical analysis plan preparation for early pain investigation using the Bayesian Adaptive Platform trial approach.
   * Implemented an “N of 1” multi-crossover study design simulation R function using simstudy to perform power analysis and sample size calculation for Centrexion’s asset.
@@ -72,8 +72,8 @@ date_format = "Jan 2006"
   location = "New York"
   date_start = "2020-06"
   date_end = ""
-  description = """"""
- Responsibilities include:
+  description = """
+  Responsibilities include:
   
   * Managed large raw Naloxone Recipients records database and queried data from 10,000 recipients using MS Access and MS SQL server.
   * Completed cleaning and matching for involved Naloxone monthly distribution reports among 1000+ Opioid Prevention Program sites using R and MySQL.
