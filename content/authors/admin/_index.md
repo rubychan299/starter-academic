@@ -17,9 +17,11 @@ organizations:
 bio: M.S. Biostatistics in New York University
 
 interests:
-- Biostatistics
+- Survival Analysis
+- Longitudinal Studies
 - Clinical Trials
-- Survey Methods
+- Bayesian Methods
+- Survey Methods/Psychometrics
 
 education:
   courses:
